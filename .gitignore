@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.chroma/
+uploads/
+data/*
+!data/README.md
+*.pdf
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+node_modules/
+frontend/.next/
+*.tsbuildinfo
