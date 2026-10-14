@@ -1,0 +1,21 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Test cache
+.pytest_cache/
+
+# ChromaDB generated data
+.chroma/
+
+# Uploaded files (if generated locally)
+uploads/

@@ -1,0 +1,23 @@
+[
+  {
+    "question": "What is the minimum CGPA required for eligibility?",
+    "expected_page": 1,
+    "note": "Synthetic test policy generated in conftest.py; page numbers are known by construction."
+  },
+  {
+    "question": "Are students with active backlogs eligible for campus placements?",
+    "expected_page": 1
+  },
+  {
+    "question": "Can a student sit for further company drives after accepting a placement offer?",
+    "expected_page": 2
+  },
+  {
+    "question": "What happens if a student withdraws from an accepted offer?",
+    "expected_page": 2
+  },
+  {
+    "question": "Within how many days must internship offers be reported to the placement office?",
+    "expected_page": 3
+  }
+]

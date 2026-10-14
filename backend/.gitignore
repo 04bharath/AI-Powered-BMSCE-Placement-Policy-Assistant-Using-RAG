@@ -1,0 +1,11 @@
+@"
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.chroma/
+uploads/
+"@ | Set-Content -Encoding utf8 .gitignore
