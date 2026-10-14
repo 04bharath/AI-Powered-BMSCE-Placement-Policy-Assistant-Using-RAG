@@ -1,5 +1,5 @@
-<img width="1280" height="1110" alt="BMSCE_Placement_Assistant_Architecture" src="https://github.com/user-attachments/assets/ca17e87b-4d17-4313-977c-ffcbb7b4b40d" /># AI-Powered BMSCE Placement Policy Assistant Using RAG
 
+# AI-Powered BMSCE Placement Policy Assistant Using RAG
 BMSCE Campus is a Retrieval-Augmented Generation (RAG) application for answering student questions about official placement-policy PDFs. It combines local embeddings and ChromaDB with a selectable LLM provider, so placement-rule answers are based on the uploaded policy rather than model memory.
 
 The chat UI intentionally does not show filenames, page references, or source cards. Citation metadata remains available in the backend API for auditing and future UI use.
